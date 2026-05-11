@@ -157,6 +157,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [Robust ASIC-Based Image Authentication Using Reed-Solomon LSB Watermarking](https://github.com/Agnuxo1/Secure_image_generation_with_ASIC_signature) | Preprint 2026 | `[I]` | ASIC PoW, Hardware-bound Provenance, Reed-Solomon Watermarking | [GitHub](https://github.com/Agnuxo1/Secure_image_generation_with_ASIC_signature) |
 | [Automated In-the-Wild Data Collection for Continual AI Generated Image Detection](https://arxiv.org/pdf/2605.02567) | Arxiv 2026 | `[I]` | Continual Learning, Continual Data Collection | [GitHub](https://mever-team.github.io/WildFC/) |
 | [IncreFA: Breaking the Static Wall of Generative Model Attribution](https://arxiv.org/pdf/2604.17736) | Arxiv 2026 | `[I]` | Incremental Learning, Generative Model Attribution | [GitHub](https://github.com/Ant0ny44/IncreFA) |
 | [CMTA: Leveraging Cross-Modal Temporal Artifacts for Generalizable AI-Generated Video Detection](https://arxiv.org/pdf/2605.00630) | Arxiv 2026 | `[V]` | Cross-Modal Temporal Artifacts, Video Detection | N/A |
@@ -209,6 +210,8 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 ## Practical Detection Tools
 
+- **SiliconSignature** - [GitHub](https://github.com/Agnuxo1/Secure_image_generation_with_ASIC_signature) - Hardware-bound image authentication using ASIC PoW nonces for unforgeable provenance certification
+- **EyeSift** - [Website](https://www.eyesift.com/) - Free online AI text/image/video/audio detector with detailed per-model benchmarks
 - **Hive Moderation** - [Website](https://thehive.ai/demos/ai-generated-content-detection)
 - **Tencent Zhuque AI Detection Assistant** - [Website](https://matrix.tencent.com/ai-detect/ai_gen_txt)
 - **AI or Not** - [Website](https://www.aiornot.com/)
@@ -314,8 +317,4 @@ For questions or collaborations, please contact:
 </a>
 
 ---
-
-## Online Detection Tools
-
-- [EyeSift AI Detection](https://www.eyesift.com/) - Free online AI text/image/video/audio detector with detailed per-model benchmarks.
 
