@@ -22,6 +22,8 @@ A curated collection of the latest research and resources on AI-Generated Image 
 ---
 
 ## 🔥 Hot Events
+
+- [一颗榴莲引发的1600公里追凶：谁在滥用“仅退款”？](https://h5.ifeng.com/c/vivo/v002Db8HLomgpDUJcI-_--LPT1YGzjdQXYG2RSCG3E68FhaZ0__?isNews=1&showComments=0)
 - [因为GPT-image-2，整个互联网都变成了巨大的黑暗森林](https://mp.weixin.qq.com/s/zua1k53RovAOk15Juy6q3g)
 - [ChatGPT 图像 2.0 现已上线! 开启图像生成的新纪元](https://openai.com/zh-Hans-CN/index/introducing-chatgpt-images-2-0/)
 - [谷歌Gemini生图的暗水印，被印度小哥破解了，成功率90%，Github揽星3k+](https://github.com/aloshdenny/reverse-SynthID)
