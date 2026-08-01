@@ -132,6 +132,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection](https://arxiv.org/abs/2607.27113) | Arxiv 2026 | `[I]` | Value-aware On-Policy Distillation, Perception-Enhanced Reasoning | [GitHub](https://github.com/EricTan7/VeritasPP) |
 | [Detecting AI-Generated Video: A Vision-Language Dual-View Survey](https://arxiv.org/abs/2607.10787) | ACL 2026 Findings | `[V]` | [Survey] Vision-Language Dual-View Taxonomy, Factual Fidelity Verification, Cross-modal Consistency | N/A |
 | [TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection](https://arxiv.org/abs/2602.21716) | ICML 2026 | `[I]` | Artifact feature and Semantic feature fusion | [GitHub](https://github.com/DreamMr/TranX-Adapter) |
 | [Venus-DeFakerOne: Unified Fake Image Detection & Localization](https://arxiv.org/pdf/2605.14091) | Arxiv 2026 | `[I]` | Unified Detection & Localization, Large-Scale Training | [GitHub](https://github.com/venus-guangjian/Venus-DeFakerOne) |
@@ -172,6 +173,8 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [Rethinking the Readout: Unlocking Video Backbones for AI-Generated Video Detection](https://arxiv.org/abs/2607.15321) | Arxiv 2026 | `[V]` | V-PVP Readout, Patch Velocity Profiling, Frozen Video Backbones | [Code](https://anonymous.4open.science/r/PVP-81B3/) |
+| [GlobalForge: Towards Robust AI-Generated Image Detection](https://arxiv.org/abs/2607.14684) | Arxiv 2026 | `[I]` | Global Structural Reasoning, Local Information Bottleneck, RealDeg-Bench | [Code](https://anonymous.4open.science/r/GlobalForge-BE0F/) |
 | [SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch-Level Incoherence and Temporal Roughness](https://arxiv.org/abs/2607.02886) | ECCV 2026 | `[V]` | Training-free, Patch-level Incoherence, Temporal Roughness, Ultra-low FPR | [GitHub](https://github.com/mldljyh/SPLIT) |
 | [Dataset Biases and Shortcut Learning in Motion-Based AI-Generated Video Detection](https://arxiv.org/abs/2607.00948) | Arxiv 2026 | `[V]` | Motion Bias Analysis, Preprocessing/Sampling Bias, Frequency-based Comparison | N/A |
 | [G2VD: Generalizable AI-Generated Video Detection via Counterfactual Intervention and Causal Disentanglement](https://arxiv.org/abs/2607.04607) | Arxiv 2026 | `[V]` | Counterfactual Intervention, Causal Disentanglement, Cross-domain Generalization | [GitHub](https://github.com/dumeng98/G2VD) |
@@ -276,6 +279,9 @@ We are honored to collaborate with esteemed researchers and scholars in the fiel
     - [[Homepage]](https://www.cs.sjtu.edu.cn/jiaoshiml/zhangzhuosheng.html)
 
 ### 📝 Academic Publications
+*   **Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection** | *arXiv, 2026*
+    -   *Highlights:* Strengthened fine-grained visual perception for explainable AIGI detection through perception-oriented learning and value-aware on-policy distillation.
+    -   [[Paper]](https://arxiv.org/abs/2607.27113) [[Code]](https://github.com/EricTan7/VeritasPP)
 *   **VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning** | *ICML'26, 2026*
     -   *Highlights:* Detected AI-generated videos using perception pretext reinforcement learning to capture temporal inconsistencies.
     -   [[Paper]](https://arxiv.org/pdf/2602.08828) [[Code]](https://github.com/EricTan7/VideoVeritas)
@@ -345,4 +351,3 @@ For questions or collaborations, please contact:
 </a>
 
 ---
-
