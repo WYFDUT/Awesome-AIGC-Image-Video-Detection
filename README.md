@@ -47,8 +47,6 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 - [公安部：多措并举应对“AI换脸”“深度伪造”等新型技术犯罪](https://www.stdaily.com/web/gdxw/2026-07/24/content_553161.html)
 
-- [新一代多模态生成模型MiniMax H3发布并开源，0.8元/秒（新京报）](https://www.bjnews.com.cn/detail/1785474644129260.html)
-
 - [告别“脸崩”时代！AI视频生成模型竞赛加速，谁在为技术买单](https://www.tfcaijing.com/article/page/6b4a4542345a552b43627150477338572f77424b70773d3d)
 
 - [融资密集落地，AI视频大模型竞速商业化](http://www.chinasei.com.cn/dtxw/202608/t20260807_88958.html)
@@ -66,6 +64,8 @@ A curated collection of the latest research and resources on AI-Generated Image 
 - [小红书发布《AI治理规则公告》，明确AI内容标识与账号治理原则](https://news.qq.com/rain/a/20260809A08UAP00)
 
 - [AI鉴定AI，下一个千亿级的生意](https://news.qq.com/rain/a/20260818A05HT700)
+
+- [新一代多模态生成模型MiniMax H3发布并开源，0.8元/秒](https://www.bjnews.com.cn/detail/1785474644129260.html)
 
 - [一镜成片，随心参考｜字节跳动 Seedance 2.5 正式发布](https://seed.bytedance.com/zh/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
 
