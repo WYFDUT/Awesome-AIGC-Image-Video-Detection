@@ -31,19 +31,21 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 - [鹿晗音乐节生图被微博AI误判为“AI生成”：平台检测误判引发热议](https://k.sina.com.cn/article_7879776328_1d5abd84806802529s.html?from=ent)
 
-- [周星驰团队多维度系统应对AI克隆侵权事件](https://ent.sina.cn/2026-07-19/detail-iniihzch1188910.d.html?vt=4)
+- [AI艺人“方桃子”代言美瞳产品的广告视频已下架，AI虚拟人代言合规争议引关注](https://xinwen.bjd.com.cn/content/s6a740a17e4b03fa51a828f51.html)
+
+- [AI技术遭滥用，澳总理等知名人士形象被伪造包装成“钓鱼诱饵”，ASIC警示网络投资诈骗激增](https://caifuhao.eastmoney.com/news/20260819170957363024070)
+
+- [“烂到爆红”的动画电影《牛来》成为中国票房黑马：一场AI时代的“反AI”狂欢](https://www.bbc.com/zhongwen/articles/c07rl9x87lvo/simp)
+
+- [AI版《甄嬛传》免费看能随意传播吗？换脸二创双重侵权，民法典新规已亮红牌](https://ent.sina.cn/2026-08-19/detail-ininuzkx7089515.d.html?vt=4)
 
 - [微短剧行业观察：短剧流量狂欢背后，AI内容失范与版权维权破局](https://news.cnr.cn/dj/20260730/t20260730_527737301.shtml)
 
-- [马来西亚启动调查：Grok被指生成性侵类Deepfake内容](https://beta.hyper.ai/cn/stories/74ed19530eac52b5bb893618f65e95dc)
-
-- [公安部：多措并举应对“AI换脸”“深度伪造”等新型技术犯罪](https://www.stdaily.com/web/gdxw/2026-07/24/content_553161.html)
-
 - [今日辟谣（2026年8月13日）：罗某利用AI炮制虚假视频吸粉引流，被依法处罚](https://www.gzwxb.gov.cn/context/contextId/216661)
 
-- [AI造谣，该当何罪（天府新视界）](https://focus.scol.com.cn/zgsz/202607/83282192.html)
-
 - [自然灾害频传，中国面临新挑战——AI伪造视频（BBC中文）](https://www.bbc.com/zhongwen/articles/crmrk3p3e3wo/simp)
+
+- [公安部：多措并举应对“AI换脸”“深度伪造”等新型技术犯罪](https://www.stdaily.com/web/gdxw/2026-07/24/content_553161.html)
 
 - [新一代多模态生成模型MiniMax H3发布并开源，0.8元/秒（新京报）](https://www.bjnews.com.cn/detail/1785474644129260.html)
 
@@ -57,13 +59,13 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 - [Google给AI水印松绑：允许移除可见水印，但保留不可见SynthID水印与C2PA元数据](https://www.tmtpost.com/agent/ai-article/19884)
 
-- [1000亿张图像被打了水印：SynthID如何变成AI内容治理的隐形基建](https://www.v2code.ai/post/synthid-100b-images-ai-watermark-infrastructure)
-
 - [7月“AI魔改”视频治理成果公布：清理违规视频13300余条、处置违规账号30余个](https://xinwen.bjd.com.cn/content/s6a71a086e4b03fa51a827a09.html)
 
 - [欧盟宣布扩大实施《人工智能法》：8月2日起深度伪造等AI生成内容须明确标注](https://www.news.cn/world/20260731/8fa97d0aefa2467fbfa39096050c1378/c.html)
 
-- [金杜律所：欧盟《AI生成内容透明度行为准则》解读及中欧AIGC标识义务比较](https://www.kingandwood.com/content/kwm/jp/zh/insights/latest-thinking/global-ai-governance-from-risk-identification-to-transparency-obligations)
+- [小红书发布《AI治理规则公告》，明确AI内容标识与账号治理原则](https://news.qq.com/rain/a/20260809A08UAP00)
+
+- [AI鉴定AI，下一个千亿级的生意](https://news.qq.com/rain/a/20260818A05HT700)
 
 - [一镜成片，随心参考｜字节跳动 Seedance 2.5 正式发布](https://seed.bytedance.com/zh/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
 
@@ -163,6 +165,10 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation](https://arxiv.org/abs/2608.20713) | ACM MM 2026 | `[I]` | AGIDefect-4K Dataset, Hierarchical Defect Annotation, MLLM Baseline (AGIDA) | [GitHub](https://github.com/sxfly99/AGIDefect-4K) |
+| [Explainable Deepfake Detection with Feature-robust Augmentation and Evidence-grounded Explanation Optimization](https://arxiv.org/abs/2608.20913) | ACM MM 2026 | `[I]` | Feature-robust Augmentation, Mean-Teacher Consistency, Evidence-grounded Preference Optimization, Challenge Winner | [GitHub](https://github.com/oceanflowlab/EDD) |
+| [PATE-Forensics: Perception-as-Tool for Explainable Deepfake Forensics with General-Purpose MLLMs](https://arxiv.org/abs/2608.18573) | IJCAI 2026 Workshop | `[I]` | Perception-as-Tool, DINOv3 Forensic Perception Tool, General-Purpose MLLM Explanation | [GitHub](https://github.com/yqli00000/PATE-Forensics) |
+| [Defake-o3: From Speculative Rationales to Verifiable Evidence for Explainable AIGI Detection](https://arxiv.org/abs/2608.16259) | ACM MM 2026 | `[I]` | Interactive Visual Search, Verifier-guided Evidence Alignment, GroundFake Dataset, FakeFrontier Benchmark | N/A |
 | [SPARED: Reasoning-Based AI-Generated Image Detection via Adversarially Edited Data](https://arxiv.org/abs/2608.12876) | Arxiv 2026 | `[I]` | Adversarial RL Loop, Diffusion Editor, Free-form Explanation | N/A |
 | [VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics](https://arxiv.org/abs/2608.11201) | Arxiv 2026 | `[V]` | Meta-Detection RL, Verifiable Temporal Grounding, Evidence-Guided Reward Redistribution | N/A |
 | [Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection](https://arxiv.org/abs/2607.27113) | Arxiv 2026 | `[I]` | Value-aware On-Policy Distillation, Perception-Enhanced Reasoning | [GitHub](https://github.com/EricTan7/VeritasPP) |
@@ -208,6 +214,10 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [GAP-SAM: A Global Artifact Prior for Generalizable AI-Generated Image Manipulation Localization](https://arxiv.org/abs/2608.20929) | Arxiv 2026 | `[I]` | Global Artifact Token, SAM3 FiLM Injection, Boundary Adhesion Analysis | N/A |
+| [LoRC: Detecting AI-Generated Images via Low-Rank Collapse in Semantic Residuals](https://arxiv.org/abs/2608.20882) | ECCV 2026 (Spotlight) | `[I]` | Low-Rank Collapse Signature, Semantic-Residual Decoupling, Cross-model Generalization | N/A |
+| [Prior-Conditioned Gaussian Discriminants for Generalizable AI-generated Image Detection](https://arxiv.org/abs/2608.18523) | ECCV 2026 | `[I]` | Closed-form Gaussian Heads, Percept-Lens Protocol (39 Datasets), Transfer Diagnostic | N/A |
+| [Environment-Invariant Subspace Learning for Generalizable Deepfake Detection](https://arxiv.org/abs/2608.17700) | Arxiv 2026 | `[I]` | Environment-Invariant Subspace, VFM Semantic Priors, Environmental Intervention | N/A |
 | [Understanding Why Foundation Models Work for Diffusion-Generated Image Detection](https://arxiv.org/abs/2608.12155) | Arxiv 2026 | `[I]` | Interpretability Analysis, DDIM Inversion, Low-to-Mid Frequency Distributional Discrepancy | N/A |
 | [PatchHead: Learning Spatial Patch Evidence for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2608.09223) | Arxiv 2026 | `[I]` | DINO Patch Tokens, 2D Spatial Aggregation, LoRA Adapters | N/A |
 | [GlobalForge: Towards Robust AI-Generated Image Detection](https://arxiv.org/abs/2607.14684) | Arxiv 2026 | `[I]` | Global Structural Reasoning, Local Information Bottleneck, RealDeg-Bench | [Code](https://anonymous.4open.science/r/GlobalForge-BE0F/) |
@@ -235,6 +245,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [MotionPhys: Detecting AI-Generated Videos via Physical Consistency of Optical-Flow Trajectories](https://arxiv.org/abs/2608.20770) | Arxiv 2026 | `[V]` | Physical Motion Consistency, Sparse Optical-Flow Trajectories, Multi-scale Geometric Evolution | N/A |
 | [Rethinking the Readout: Unlocking Video Backbones for AI-Generated Video Detection](https://arxiv.org/abs/2607.15321) | Arxiv 2026 | `[V]` | V-PVP Readout, Patch Velocity Profiling, Frozen Video Backbones | [Code](https://anonymous.4open.science/r/PVP-81B3/) |
 | [Dataset Biases and Shortcut Learning in Motion-Based AI-Generated Video Detection](https://arxiv.org/abs/2607.00948) | Arxiv 2026 | `[V]` | Motion Bias Analysis, Preprocessing/Sampling Bias, Frequency-based Comparison | N/A |
 | [G2VD: Generalizable AI-Generated Video Detection via Counterfactual Intervention and Causal Disentanglement](https://arxiv.org/abs/2607.04607) | Arxiv 2026 | `[V]` | Counterfactual Intervention, Causal Disentanglement, Cross-domain Generalization | [GitHub](https://github.com/dumeng98/G2VD) |
@@ -255,6 +266,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [Frozen DINO Localizes Image Edits Without a Localizer](https://arxiv.org/abs/2608.18968) | Arxiv 2026 | `[I]` | Training-free, Frozen DINO Patch-token Drift, Haar Perturbation, Edit Localization | [GitHub](https://github.com/VishalJ99/trail-image-edit-localization) |
 | [SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch-Level Incoherence and Temporal Roughness](https://arxiv.org/abs/2607.02886) | ECCV 2026 | `[V]` | Training-free, Patch-level Incoherence, Temporal Roughness, Ultra-low FPR | [GitHub](https://github.com/mldljyh/SPLIT) |
 | [Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods](https://arxiv.org/pdf/2603.15026) | CVPR 2026 | `[V]` | Training-free, Zero-shot, Spatial-Temporal Likelihoods, ComGenVid Dataset | [GitHub](https://github.com/OmerBenHayun/STALL) |
 
@@ -285,6 +297,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [Training-Free Reconstruction-Based AI-Generated Image Detectors Are Inherently Vulnerable to Adversarial Examples](https://arxiv.org/abs/2608.16646) | ECCV 2026 Workshop | `[I]` | [Robustness Analysis] Reconstruction-based Detector Attacks, Transferable Adversarial Examples, Real-world Degradations | N/A |
 | [Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination](https://arxiv.org/abs/2608.14391) | Arxiv 2026 | `[V]` | [Evaluation] RA-Bench, Crisis Event Videos, Detector Generalization, Social Dissemination | N/A |
 | [When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/pdf/2606.04098) | Arxiv 2026 | `[V]` | Search-Grounded Verification, EVID-Bench, Evidence-Dependent Manipulation | N/A |
 | [Robust ASIC-Based Image Authentication Using Reed-Solomon LSB Watermarking](https://github.com/Agnuxo1/Secure_image_generation_with_ASIC_signature) | Preprint 2026 | `[I]` | ASIC PoW, Hardware-bound Provenance, Reed-Solomon Watermarking | [GitHub](https://github.com/Agnuxo1/Secure_image_generation_with_ASIC_signature) |
