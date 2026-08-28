@@ -324,6 +324,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 ## Practical Detection Tools
 
+- **美亚鉴真** - 微信小程序搜索 **美亚鉴真**
 - **SiliconSignature** - [GitHub](https://github.com/Agnuxo1/Secure_image_generation_with_ASIC_signature) - Hardware-bound image authentication using ASIC PoW nonces for unforgeable provenance certification
 - **EyeSift** - [Website](https://www.eyesift.com/) - Free online AI text/image/video/audio detector with detailed per-model benchmarks
 - **Hive Moderation** - [Website](https://thehive.ai/demos/ai-generated-content-detection)
