@@ -69,17 +69,17 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 - [因为GPT-image-2，整个互联网都变成了巨大的黑暗森林](https://mp.weixin.qq.com/s/zua1k53RovAOk15Juy6q3g)
 
-- [⭐️ 刚刚，阿里官方认领神秘「欢乐马」(HappyHorse)，来自ATH郑波团队](https://weibo.com/8214551477/5286126636237040)
+- [刚刚，阿里官方认领神秘「欢乐马」(HappyHorse)，来自ATH郑波团队](https://weibo.com/8214551477/5286126636237040)
 
 - [改变视频行业的AI，快来了(但有点恐怖) - Bilibili 影视飓风](https://www.bilibili.com/video/BV1A3cczZEf6/?spm_id_from=333.1387.homepage.video_card.click&vd_source=516db97bb15e7a9ee84b3097ee2ff160)
 
-- [蚂蚁安全实验室获CVPR26 AIGC图像检测挑战赛冠军](https://mp.weixin.qq.com/s/xlvP_rkyaLD0Pfp4g3Jwdw)
+- [⭐️ 蚂蚁安全实验室获CVPR26 AIGC图像检测挑战赛冠军](https://mp.weixin.qq.com/s/xlvP_rkyaLD0Pfp4g3Jwdw)
 
-- [蚂蚁安全实验室夺冠全球人脸防伪检测挑战赛](https://mp.weixin.qq.com/s/ZZMep9ETEavC99N-GyfRBQ)
+- [⭐️ 蚂蚁安全实验室夺冠全球人脸防伪检测挑战赛](https://mp.weixin.qq.com/s/ZZMep9ETEavC99N-GyfRBQ)
 
-- [国家网信办印发《人工智能生成合成内容标识办法》](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm)
+- [📜 国家网信办印发《人工智能生成合成内容标识办法》](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm)
 
-- [国家网信办印发《人工智能拟人化互动服务管理暂行办法》](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
+- [📜 国家网信办印发《人工智能拟人化互动服务管理暂行办法》](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
 
 ---
 
