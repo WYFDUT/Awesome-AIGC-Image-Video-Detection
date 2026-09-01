@@ -31,39 +31,37 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 - [鹿晗音乐节生图被微博AI误判为“AI生成”：平台检测误判引发热议](https://k.sina.com.cn/article_7879776328_1d5abd84806802529s.html?from=ent)
 
-- [AI艺人“方桃子”代言美瞳产品的广告视频已下架，AI虚拟人代言合规争议引关注](https://xinwen.bjd.com.cn/content/s6a740a17e4b03fa51a828f51.html)
-
-- [AI技术遭滥用，澳总理等知名人士形象被伪造包装成“钓鱼诱饵”，ASIC警示网络投资诈骗激增](https://caifuhao.eastmoney.com/news/20260819170957363024070)
-
-- [“烂到爆红”的动画电影《牛来》成为中国票房黑马：一场AI时代的“反AI”狂欢](https://www.bbc.com/zhongwen/articles/c07rl9x87lvo/simp)
+- [Deepfake Jimmy Kimmels and Jon Stewarts are everywhere](https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai)
 
 - [AI版《甄嬛传》免费看能随意传播吗？换脸二创双重侵权，民法典新规已亮红牌](https://ent.sina.cn/2026-08-19/detail-ininuzkx7089515.d.html?vt=4)
 
-- [微短剧行业观察：短剧流量狂欢背后，AI内容失范与版权维权破局](https://news.cnr.cn/dj/20260730/t20260730_527737301.shtml)
+- [“烂到爆红”的动画电影《牛来》成为中国票房黑马：一场AI时代的“反AI”狂欢](https://www.bbc.com/zhongwen/articles/c07rl9x87lvo/simp)
 
-- [今日辟谣（2026年8月13日）：罗某利用AI炮制虚假视频吸粉引流，被依法处罚](https://www.gzwxb.gov.cn/context/contextId/216661)
+- [#当动物可以变幻成高跟鞋#：网友AI脑洞创作三天引爆全网，超3亿次围观](https://k.sina.com.cn/article_7879776328_1d5abd8480680284vg.html?from=tech)
 
-- [自然灾害频传，中国面临新挑战——AI伪造视频（BBC中文）](https://www.bbc.com/zhongwen/articles/crmrk3p3e3wo/simp)
+- [AI技术遭滥用，澳总理等知名人士形象被伪造包装成“钓鱼诱饵”，ASIC警示网络投资诈骗激增](https://caifuhao.eastmoney.com/news/20260819170957363024070)
 
-- [公安部：多措并举应对“AI换脸”“深度伪造”等新型技术犯罪](https://www.stdaily.com/web/gdxw/2026-07/24/content_553161.html)
+- [“我感到被骗了”：AI假医师影片攻陷台湾长者社群，社区开课教老人辨伪（BBC中文）](https://www.bbc.com/zhongwen/articles/c4gq4999446o/simp)
 
-- [告别“脸崩”时代！AI视频生成模型竞赛加速，谁在为技术买单](https://www.tfcaijing.com/article/page/6b4a4542345a552b43627150477338572f77424b70773d3d)
+- [编造智驾事故、AI生成假车祸视频？公安部通报14起涉企网络谣言典型案例](https://www.piyao.org.cn/20260818/1207f51707724dcfbe0ba310062492d0/c.html)
 
-- [融资密集落地，AI视频大模型竞速商业化](http://www.chinasei.com.cn/dtxw/202608/t20260807_88958.html)
-
-- [2026年8月AI视频模型排行榜：图生视频工具该怎么选？](https://www.pixmax.cn/news/post-58.html)
-
-- [国内外知名大模型及应用汇总（2026/08/14）](https://zhuanlan.zhihu.com/p/670574382)
-
-- [Google给AI水印松绑：允许移除可见水印，但保留不可见SynthID水印与C2PA元数据](https://www.tmtpost.com/agent/ai-article/19884)
+- [AI漫剧“盗脸”“融声”乱象凸显，侵权边界引热议（法治周末）](http://www.legalweekly.cn/content/2026-08/19/content_9443503.html)
 
 - [7月“AI魔改”视频治理成果公布：清理违规视频13300余条、处置违规账号30余个](https://xinwen.bjd.com.cn/content/s6a71a086e4b03fa51a827a09.html)
 
-- [欧盟宣布扩大实施《人工智能法》：8月2日起深度伪造等AI生成内容须明确标注](https://www.news.cn/world/20260731/8fa97d0aefa2467fbfa39096050c1378/c.html)
-
 - [小红书发布《AI治理规则公告》，明确AI内容标识与账号治理原则](https://news.qq.com/rain/a/20260809A08UAP00)
 
+- [欧盟宣布扩大实施《人工智能法》：8月2日起深度伪造等AI生成内容须明确标注](https://www.news.cn/world/20260731/8fa97d0aefa2467fbfa39096050c1378/c.html)
+
+- [Nudification becomes illegal for websites, apps in Minnesota](https://www.fox9.com/news/nudification-becomes-illegal-websites-apps-minnesota-aug-1-2026)
+
+- [New California Law Requires AI Companies to Publish Detection Tools. Are They Complying?](https://www.kqed.org/news/12095398/new-california-law-requires-ai-companies-to-publish-detection-tools-are-they-complying)
+
+- [Google给AI水印松绑：允许移除可见水印，但保留不可见SynthID水印与C2PA元数据](https://www.tmtpost.com/agent/ai-article/19884)
+
 - [AI鉴定AI，下一个千亿级的生意](https://news.qq.com/rain/a/20260818A05HT700)
+
+- [阿里云发布Wan3.0 AI视频生成模型：支持文/图/视频/音频多模态输入，最长生成30秒视频](https://www.ebrun.com/20260825/698150.shtml)
 
 - [新一代多模态生成模型MiniMax H3发布并开源，0.8元/秒](https://www.bjnews.com.cn/detail/1785474644129260.html)
 
@@ -216,6 +214,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [FUSED: Forensic-Semantic Mixture-of-Experts for AI Inpainting Detection and Localization](https://arxiv.org/abs/2608.28302) | Arxiv 2026 | `[I]` | Forensic-Semantic MoE, Joint Detection & Localization, Cross-generator Generalization (OpenSDID) | [GitHub](https://github.com/AntonNuzhdin/FUSED) |
 | [GAP-SAM: A Global Artifact Prior for Generalizable AI-Generated Image Manipulation Localization](https://arxiv.org/abs/2608.20929) | Arxiv 2026 | `[I]` | Global Artifact Token, SAM3 FiLM Injection, Boundary Adhesion Analysis | N/A |
 | [LoRC: Detecting AI-Generated Images via Low-Rank Collapse in Semantic Residuals](https://arxiv.org/abs/2608.20882) | ECCV 2026 (Spotlight) | `[I]` | Low-Rank Collapse Signature, Semantic-Residual Decoupling, Cross-model Generalization | N/A |
 | [Prior-Conditioned Gaussian Discriminants for Generalizable AI-generated Image Detection](https://arxiv.org/abs/2608.18523) | ECCV 2026 | `[I]` | Closed-form Gaussian Heads, Percept-Lens Protocol (39 Datasets), Transfer Diagnostic | N/A |
