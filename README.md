@@ -79,8 +79,6 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 - [国家网信办印发《人工智能生成合成内容标识办法》](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm)
 
-- [网信部门依法查处“剪映”“猫箱”“即梦AI”等生成合成内容标识违法问题网站平台](https://www.cac.gov.cn/2026-04/28/c_1779119736411711.htm)
-
 - [国家网信办印发《人工智能拟人化互动服务管理暂行办法》](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
 
 ---
