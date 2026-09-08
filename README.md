@@ -29,37 +29,43 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 ## 🔥 Hot Events
 
-- [鹿晗音乐节生图被微博AI误判为“AI生成”：平台检测误判引发热议](https://k.sina.com.cn/article_7879776328_1d5abd84806802529s.html?from=ent)
-
-- [Deepfake Jimmy Kimmels and Jon Stewarts are everywhere](https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai)
-
 - [AI版《甄嬛传》免费看能随意传播吗？换脸二创双重侵权，民法典新规已亮红牌](https://ent.sina.cn/2026-08-19/detail-ininuzkx7089515.d.html?vt=4)
+
+- [AI漫剧“盗脸”“融声”乱象凸显，侵权边界引热议（法治周末）](http://www.legalweekly.cn/content/2026-08/19/content_9443503.html)
 
 - [“烂到爆红”的动画电影《牛来》成为中国票房黑马：一场AI时代的“反AI”狂欢](https://www.bbc.com/zhongwen/articles/c07rl9x87lvo/simp)
 
 - [#当动物可以变幻成高跟鞋#：网友AI脑洞创作三天引爆全网，超3亿次围观](https://k.sina.com.cn/article_7879776328_1d5abd8480680284vg.html?from=tech)
 
+- [AI poster causes controversy after winning Ohio State Fair contest](https://www.kark.com/news/national-news/ai-poster-causes-controversy-after-winning-ohio-state-fair-contest/)
+
+- [Deepfake Jimmy Kimmels and Jon Stewarts are everywhere](https://www.npr.org/2026-08-30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai)
+
 - [AI技术遭滥用，澳总理等知名人士形象被伪造包装成“钓鱼诱饵”，ASIC警示网络投资诈骗激增](https://caifuhao.eastmoney.com/news/20260819170957363024070)
 
 - [“我感到被骗了”：AI假医师影片攻陷台湾长者社群，社区开课教老人辨伪（BBC中文）](https://www.bbc.com/zhongwen/articles/c4gq4999446o/simp)
 
+- [Viral 'Cat in the Hat' trend linked to arrests and school lockdowns](https://www.usatoday.com/story/tech/news/2026-09-01/cat-in-the-hat-viral-trend-safety-concerns/91562322007/)
+
+- [Musk's AI company sues its users as victim lawsuits over Grok deepfakes mount](https://www.politico.com/news/2026-08-28/elon-musk-xai-lawsuits-grok-deepfakes-01053817)
+
+- [Federal judge warns law is being left behind by AI child sex abuse images](https://thedailyrecord.com/2026-08-31/federal-judge-first-amendment-ai-child-sex-abuse-images/)
+
+- [Nepal disaster: Fake and AI images flood social media as deaths mount](https://www.france24.com/en/nepal-disaster-fake-and-ai-images-flood-social-media-as-deaths-mount)
+
 - [编造智驾事故、AI生成假车祸视频？公安部通报14起涉企网络谣言典型案例](https://www.piyao.org.cn/20260818/1207f51707724dcfbe0ba310062492d0/c.html)
 
-- [AI漫剧“盗脸”“融声”乱象凸显，侵权边界引热议（法治周末）](http://www.legalweekly.cn/content/2026-08/19/content_9443503.html)
-
-- [7月“AI魔改”视频治理成果公布：清理违规视频13300余条、处置违规账号30余个](https://xinwen.bjd.com.cn/content/s6a71a086e4b03fa51a827a09.html)
+- [Instagram puts new limits on undisclosed AI profiles](https://techcrunch.com/2026-08-31/instagram-puts-new-limits-on-undisclosed-ai-profiles/)
 
 - [小红书发布《AI治理规则公告》，明确AI内容标识与账号治理原则](https://news.qq.com/rain/a/20260809A08UAP00)
 
-- [欧盟宣布扩大实施《人工智能法》：8月2日起深度伪造等AI生成内容须明确标注](https://www.news.cn/world/20260731/8fa97d0aefa2467fbfa39096050c1378/c.html)
+- [8月清理“AI魔改”违规视频近14000条](https://news.bjd.com.cn/2026-09-01/11941579.shtml)
 
-- [Nudification becomes illegal for websites, apps in Minnesota](https://www.fox9.com/news/nudification-becomes-illegal-websites-apps-minnesota-aug-1-2026)
-
-- [New California Law Requires AI Companies to Publish Detection Tools. Are They Complying?](https://www.kqed.org/news/12095398/new-california-law-requires-ai-companies-to-publish-detection-tools-are-they-complying)
+- [中央网信办深入开展“清朗·整治AI应用乱象”专项行动第二阶段工作](https://www.cac.gov.cn/2026-09/02/c_1790099041364574.htm)
 
 - [Google给AI水印松绑：允许移除可见水印，但保留不可见SynthID水印与C2PA元数据](https://www.tmtpost.com/agent/ai-article/19884)
 
-- [AI鉴定AI，下一个千亿级的生意](https://news.qq.com/rain/a/20260818A05HT700)
+- [Study finds nearly half of tech companies not complying with California's AI detection law](https://www.transparencycoalition.ai/news/study-finds-nearly-half-of-tech-companies-not-complying-with-ai-detection-law)
 
 - [阿里云发布Wan3.0 AI视频生成模型：支持文/图/视频/音频多模态输入，最长生成30秒视频](https://www.ebrun.com/20260825/698150.shtml)
 
@@ -92,6 +98,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Benchmark | Paper | Venue & Year | Modality | Notes | Real Source | Fake Source/Generator | Annotation | Scale | Download |
 | :-------- | :---- | :----------- | :------- | :------ | :---------- | :-------------------- | :--------- | :---- | :------- |
+| DailyBench | [DailyBench: A Unified Benchmark for AI-Generated and Manipulated Images from Modern Generative Models](https://arxiv.org/abs/2607.24016) | Arxiv 2026 (v3 2026-09-01) | `[I]` | Unified AIID testbed = FakeBench (full T2I synthesis) + ManipulationBench (object-level edits on real images); LAION-Aesthetics V2 pool filtered by aesthetic score ≥6 & shortest side ≥512; per-generator real/fake pairs; robustness study under recompression & pixel perturbation; ships FPD diagnostic baseline | LAION-Aesthetics V2 | T2I: SD3.5-Large, FLUX.1, FLUX.2, Qwen-Image-2512, Z-Image, Nano Banana 2, GPT-Image 2; Edit: FLUX-Fill (random/object mask), FLUX.2-klein-9B, Qwen-Image-Edit-2511, Step1X-Edit-v1p2 | `Au` | 270K（v3：FakeBench ≈185K + ManipulationBench ≈75K） | [DailyBench](https://modelscope.cn/datasets/WhiteJiang/DailyBench) <br> [Project](https://dailybench.github.io/) |
 | AGIDefect-4K | [AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation](https://arxiv.org/abs/2608.20713) | ACM MM 2026 | `[I]` | Defect Detection, Localization & Explanation, 15 SOTA Generators, Quality Scoring | | DALL-E 3, Midjourney, FLUX, Gemini, GPT-Image, Ideogram, Kling, Grok, etc. | `Au`, `Lo`, `Ex` | 4K | [AGIDefect-4K](https://github.com/sxfly99/AGIDefect-4K) |
 | RA-Bench | [Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination](https://arxiv.org/abs/2608.14391) | Arxiv 2026 | `[V]` | Real-Crisis-Anchored, Source-Matched Evaluation, Human-Proof Subset, Propagation Robustness | Real crisis event footage (public media & source URLs) | 4 open-source + 5 closed-source generators (incl. Wan2.2) | `Au` | 17.9K | [RA-Bench](https://github.com/24029100313/RA-Bench) |
 | RealHD | [RealHD: A High-Quality Dataset for Robust Detection of State-of-the-Art AI-Generated Images](https://arxiv.org/abs/2602.10546) | Arxiv 2026 | `[I]` | Multi-category, SOTA Generators, 10K+ Prompts, Inpainting Masks | | T2I, Inpainting, Refinement, Face Swapping | `Au`, `Lo` | 730K+ | [RealHD](https://real-hd.github.io) |
@@ -163,6 +170,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [Evidence-Guided Detection, Localization and Explanation for Text-Centric Image Forensics](https://arxiv.org/abs/2609.02097) | ACM MM 2026 Challenge | `[I]` | Detector-Localizer-Reasoner Cascade, Iterative Difficulty-Aware Mining, Report-Mask Consistency | [GitHub](https://github.com/peifengLiu42/ACMMM26-evidence-guided-detector-localizer-reasoner-system) |
 | [AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation](https://arxiv.org/abs/2608.20713) | ACM MM 2026 | `[I]` | AGIDefect-4K Dataset, Hierarchical Defect Annotation, MLLM Baseline (AGIDA) | [GitHub](https://github.com/sxfly99/AGIDefect-4K) |
 | [Explainable Deepfake Detection with Feature-robust Augmentation and Evidence-grounded Explanation Optimization](https://arxiv.org/abs/2608.20913) | ACM MM 2026 | `[I]` | Feature-robust Augmentation, Mean-Teacher Consistency, Evidence-grounded Preference Optimization, Challenge Winner | [GitHub](https://github.com/oceanflowlab/EDD) |
 | [PATE-Forensics: Perception-as-Tool for Explainable Deepfake Forensics with General-Purpose MLLMs](https://arxiv.org/abs/2608.18573) | IJCAI 2026 Workshop | `[I]` | Perception-as-Tool, DINOv3 Forensic Perception Tool, General-Purpose MLLM Explanation | [GitHub](https://github.com/yqli00000/PATE-Forensics) |
@@ -244,6 +252,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [Mind the Rift: Cross-Scale Coupling Mismatch for AI-Generated Video Detection](https://arxiv.org/abs/2609.00742) | ACM MM 2026 | `[V]` | Cross-Scale Coupling Mismatch, Macro Temporal Dynamics vs. Pixel-Level Residuals, Persistent Homology, Encoder-Agnostic | [GitHub](https://github.com/Litsay/RIFT) |
 | [MotionPhys: Detecting AI-Generated Videos via Physical Consistency of Optical-Flow Trajectories](https://arxiv.org/abs/2608.20770) | Arxiv 2026 | `[V]` | Physical Motion Consistency, Sparse Optical-Flow Trajectories, Multi-scale Geometric Evolution | N/A |
 | [Rethinking the Readout: Unlocking Video Backbones for AI-Generated Video Detection](https://arxiv.org/abs/2607.15321) | Arxiv 2026 | `[V]` | V-PVP Readout, Patch Velocity Profiling, Frozen Video Backbones | [Code](https://anonymous.4open.science/r/PVP-81B3/) |
 | [Dataset Biases and Shortcut Learning in Motion-Based AI-Generated Video Detection](https://arxiv.org/abs/2607.00948) | Arxiv 2026 | `[V]` | Motion Bias Analysis, Preprocessing/Sampling Bias, Frequency-based Comparison | N/A |
@@ -286,6 +295,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [Preserving Knowledge across Space and Time for Continual Video Deepfake Detection](https://arxiv.org/abs/2609.03446) | ECCV 2026 | `[V]` | Modality-Specific Frequency Distillation, Spatial/Temporal/Spatiotemporal Decomposition, Cross-Modality Decorrelation | [GitHub](https://github.com/rama0126/MSFD) |
 | [Automated In-the-Wild Data Collection for Continual AI Generated Image Detection](https://arxiv.org/pdf/2605.02567) | Arxiv 2026 | `[I]` | Continual Learning, Continual Data Collection | [GitHub](https://mever-team.github.io/WildFC/) |
 | [IncreFA: Breaking the Static Wall of Generative Model Attribution](https://arxiv.org/pdf/2604.17736) | Arxiv 2026 | `[I]` | Incremental Learning, Generative Model Attribution | [GitHub](https://github.com/Ant0ny44/IncreFA) |
 | [SAIDO: Generalizable Detection of AI-Generated Images via Scene-Aware and Importance-Guided Dynamic Optimization in Continual Learning](https://arxiv.org/pdf/2512.00539) | CVPR 2026 | `[I]` | Scene-aware optimization, Continual learning | [GitHub](https://github.com/edu-yinzhaoxia/SAIDO-CVPR2026) |
@@ -296,6 +306,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [APT: Anchor-aligned Perturbations for Tamper Localization in Fully Regenerated Images](https://arxiv.org/abs/2608.30656) | ECCV 2026 | `[I]` | [Proactive Forensics] Semi-Fragile Latent Perturbation, Fully Regenerated (Inpainting) Setting, Anchor-Direction Alignment | N/A |
 | [Training-Free Reconstruction-Based AI-Generated Image Detectors Are Inherently Vulnerable to Adversarial Examples](https://arxiv.org/abs/2608.16646) | ECCV 2026 Workshop | `[I]` | [Robustness Analysis] Reconstruction-based Detector Attacks, Transferable Adversarial Examples, Real-world Degradations | N/A |
 | [Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination](https://arxiv.org/abs/2608.14391) | Arxiv 2026 | `[V]` | [Evaluation] RA-Bench, Crisis Event Videos, Detector Generalization, Social Dissemination | N/A |
 | [When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/pdf/2606.04098) | Arxiv 2026 | `[V]` | Search-Grounded Verification, EVID-Bench, Evidence-Dependent Manipulation | N/A |
