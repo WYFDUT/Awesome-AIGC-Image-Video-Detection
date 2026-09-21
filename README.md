@@ -32,31 +32,31 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 - [太卷了！改变视频行业的AI又迭代了什么？——影视飓风](https://www.bilibili.com/video/BV1teuc63E6D/?spm_id_from=333.1387.upload.video_card.click&vd_source=dc916dd94382a611d2fc7ba992618065)
   
-- [戚薇回应授权数字分身被指“卖脸”，律师提醒：AI肖像授权合规边界引热议](https://m.thepaper.cn/newsDetail_forward_34000008)
-
-- [AI poster causes controversy after winning Ohio State Fair contest](https://www.kark.com/news/national-news/ai-poster-causes-controversy-after-winning-ohio-state-fair-contest/)
-
-- [Deepfake Jimmy Kimmels and Jon Stewarts are everywhere](https://www.npr.org/2026-08-30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai)
+- [New York shuts down a dozen harmful AI deepfake websites targeting celebrities](https://www.transparencycoalition.ai/news/new-york-shuts-down-a-dozen-harmful-ai-deepfake-websites)
 
 - [Victim loses £250k after scammers use AI video of 'well-known' celebrity](https://www.bbc.com/news/articles/cx2zkp8vx9jo)
 
-- [AI技术遭滥用，澳总理等知名人士形象被伪造包装成“钓鱼诱饵”，ASIC警示网络投资诈骗激增](https://caifuhao.eastmoney.com/news/20260819170957363024070)
+- [Offshore casino targets Alphonso Davies's family with deepfake ad](https://edmontonjournal.com/news/local-news/gambling-alphonso-davies-oxibet-igaming)
 
-- [“我感到被骗了”：AI假医师影片攻陷台湾长者社群，社区开课教老人辨伪](https://www.bbc.com/zhongwen/articles/c4gq4999446o/simp)
+- [“我感到被骗了”：AI假医师影片攻陷台湾长者社群，社区开课教老人辨伪（BBC中文）](https://www.bbc.com/zhongwen/articles/c4gq4999446o/simp)
 
-- [Viral 'Cat in the Hat' trend linked to arrests and school lockdowns](https://www.usatoday.com/story/tech/news/2026-09-01/cat-in-the-hat-viral-trend-safety-concerns/91562322007/)
+- [Deepfake Jimmy Kimmels and Jon Stewarts are everywhere](https://www.npr.org/2026-08-30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai)
 
-- [Musk's AI company sues its users as victim lawsuits over Grok deepfakes mount](https://www.politico.com/news/2026-08-28/elon-musk-xai-lawsuits-grok-deepfakes-01053817)
-
-- [Federal judge warns law is being left behind by AI child sex abuse images](https://thedailyrecord.com/2026-08-31/federal-judge-first-amendment-ai-child-sex-abuse-images/)
+- [Viral Putin, Modi and Xi selfie at BRICS summit is AI-generated](https://www.france24.com/en/tv-shows/truth-or-fake/20260915-viral-putin-modi-and-xi-selfie-at-brics-summit-is-ai-generated)
 
 - [Nepal disaster: Fake and AI images flood social media as deaths mount](https://www.france24.com/en/nepal-disaster-fake-and-ai-images-flood-social-media-as-deaths-mount)
 
 - [Foreign 'AI slopaganda' network targets Australian politicians with deepfakes](https://www.abc.net.au/news/2026-09-09/foreign-ai-network-deepfaking-australian-politicians/107129044)
 
+- [Viral 'Cat in the Hat' trend linked to arrests and school lockdowns](https://www.usatoday.com/story/tech/news/2026-09-01/cat-in-the-hat-viral-trend-safety-concerns/91562322007/)
+
+- [Musk's AI company sues its users as victim lawsuits over Grok deepfakes mount](https://www.politico.com/news/2026-08-28/elon-musk-xai-lawsuits-grok-deepfakes-01053817)
+
 - [Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids](https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/)
 
-- [编造智驾事故、AI生成假车祸视频？公安部通报14起涉企网络谣言典型案例](https://www.piyao.org.cn/20260818/1207f51707724dcfbe0ba310062492d0/c.html)
+- [AI“性转”视频风靡中国网络：一场“新文化运动”的觉醒与侷限](https://www.bbc.com/zhongwen/articles/cn74d8mr640o/simp)
+
+- [网络普法小课堂：拆解AI虚假信息套路](https://www.piyao.org.cn/20260920/7a7212ee5f044a6cb58cb630856f6c73/c.html)
 
 - [Instagram puts new limits on undisclosed AI profiles](https://techcrunch.com/2026-08-31/instagram-puts-new-limits-on-undisclosed-ai-profiles/)
 
@@ -64,11 +64,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 - [最高法发布《关于依法审理涉人工智能纠纷案件的意见》，明确AI换脸、拟声等侵权裁判规则](https://www.court.gov.cn/zixun/xiangqing/511101.html)
 
-- [EU AI Act Article 50 transparency obligations for AI-generated content take effect from 2 August 2026](https://www.cooley.com/news/insight/2026/2026-08-03-eu-ai-act-transparency-obligations-take-effect-2-august-2026)
-
-- [Google给AI水印松绑：允许移除可见水印，但保留不可见SynthID水印与C2PA元数据](https://www.tmtpost.com/agent/ai-article/19884)
-
-- [Study finds nearly half of tech companies not complying with California's AI detection law](https://www.transparencycoalition.ai/news/study-finds-nearly-half-of-tech-companies-not-complying-with-ai-detection-law)
+- [8月清理“AI魔改”违规视频近14000条](https://news.bjd.com.cn/2026-09-01/11941579.shtml)
 
 
 - [阿里云发布Wan3.0 AI视频生成模型：支持文/图/视频/音频多模态输入，最长生成30秒视频](https://www.ebrun.com/20260825/698150.shtml)
@@ -225,6 +221,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [Learning Continuous Source Responses For Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2609.14316) | Arxiv 2026 | `[I]` | CuRe, Continuous Source-Response Regression (Real-Generated Mixing Ratio), Shortcut-Cue Suppression, Source-Response Subspace, 10-Benchmark Evaluation | [GitHub](https://github.com/manic-cui/CuRe) |
 | [Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection](https://arxiv.org/abs/2609.07670) | Arxiv 2026 | `[I]` | UCF-Net, CLIP Semantic + DINO Structural Priors, Layer-wise Expert Aggregation, Entropy-based Uncertainty Fusion, 4M-image Unified Benchmark, Cross-generator Evaluation | [GitHub](https://github.com/XavierJiezou/UCF-Net) |
 | [FUSED: Forensic-Semantic Mixture-of-Experts for AI Inpainting Detection and Localization](https://arxiv.org/abs/2608.28302) | Arxiv 2026 | `[I]` | Forensic-Semantic MoE, Joint Detection & Localization, Cross-generator Generalization (OpenSDID) | [GitHub](https://github.com/AntonNuzhdin/FUSED) |
 | [GAP-SAM: A Global Artifact Prior for Generalizable AI-Generated Image Manipulation Localization](https://arxiv.org/abs/2608.20929) | Arxiv 2026 | `[I]` | Global Artifact Token, SAM3 FiLM Injection, Boundary Adhesion Analysis | N/A |
