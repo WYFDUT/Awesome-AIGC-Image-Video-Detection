@@ -29,7 +29,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 ## 🔥 Hot Events
 
-> Last updated: 2026-10-05
+> Last updated: 2026-10-12
 
 - [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
 
@@ -39,39 +39,43 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 
 
-- [A fake image of a Georgia mayor kissing a person went viral. Can US voters trust everything they see?](https://www.theguardian.com/technology/2026/sep/30/ai-deepfakes-politicans)
+- [AI deepfake ads grow more popular in US midterm campaigns, blurring truth](https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth)
+
+- [Denmark plans ban on sharing AI deepfakes without consent](https://www.reuters.com/world/denmark-plans-ban-sharing-ai-deepfakes-without-consent-2026-10-08/)
+
+- [Manslaughter sentence tossed over AI-generated video of slain victim](https://abcnews.com/US/manslaughter-sentence-tossed-ai-generated-video-slain-victim/story?id=137045055)
 
 - [快手可灵AI Kling 4.0将于10月上线，支持4K HDR与30秒视频生成](https://www.ithome.com/1/008/073.htm)
 
 - [This light-powered AI can spot deepfakes with nearly 98% accuracy](https://www.sciencedaily.com/releases/2026/09/260929053534.htm)
 
-- [Failed by the police, Grok deepfake victims are seeking justice themselves](https://www.thebureauinvestigates.com/stories/2026-09-29/grok-deepfakes-police-justice)
+- [四川道孚"棕熊现身街头"图片系AI合成，两人被处罚](https://m.huanqiu.com/article/4TMVJi6k8Yl)
+
+- [A fake image of a Georgia mayor kissing a person went viral. Can US voters trust everything they see?](https://www.theguardian.com/technology/2026/sep/30/ai-deepfakes-politicans)
 
 - [肖战回应AI争议，一句"但它不是我"为何全网刷屏？](https://k.sina.com.cn/article_7879776328_1d5abd84806802bke4.html?from=ent)
 
-- [New York shuts down a dozen harmful AI deepfake websites targeting celebrities](https://www.transparencycoalition.ai/news/new-york-shuts-down-a-dozen-harmful-ai-deepfake-websites)
+- [Failed by the police, Grok deepfake victims are seeking justice themselves](https://www.thebureauinvestigates.com/stories/2026-09-29/grok-deepfakes-police-justice)
 
 - [阿里视听生成模型升级，新视频生成模型拟11月发布](https://finance.sina.com.cn/tech/shenji/2026-09-22/doc-inissitm5735903.shtml)
 
-- [DHS expands identity verification testing to target deepfakes and AI-generated IDs](https://www.biometricupdate.com/202609/dhs-expands-rivr-testing-to-deepfakes-ai-generated-ids)
+- [New York shuts down a dozen harmful AI deepfake websites targeting celebrities](https://www.transparencycoalition.ai/news/new-york-shuts-down-a-dozen-harmful-ai-deepfake-websites)
 
 - [网络普法小课堂：拆解AI虚假信息套路](https://www.piyao.org.cn/20260920/7a7212ee5f044a6cb58cb630856f6c73/c.html)
 
-- [Federal judge blocks Montana's AI deepfake political ad law over free speech concerns](https://www.newsfromthestates.com/node/428286)
+- [DHS expands identity verification testing to target deepfakes and AI-generated IDs](https://www.biometricupdate.com/202609/dhs-expands-rivr-testing-to-deepfakes-ai-generated-ids)
 
 - [最高法发布《关于依法审理涉人工智能纠纷案件的意见》，明确AI换脸、拟声等侵权裁判规则](https://www.court.gov.cn/zixun/xiangqing/511101.html)
 
-- [Meta ordered to remove UK deepfakes as oversight board criticises 'inadequate' safeguards](https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards)
+- [Federal judge blocks Montana's AI deepfake political ad law over free speech concerns](https://www.newsfromthestates.com/node/428286)
 
-- [Viral Putin, Modi and Xi selfie at BRICS summit is AI-generated](https://www.france24.com/en/tv-shows/truth-or-fake/20260915-viral-putin-modi-and-xi-selfie-at-brics-summit-is-ai-generated)
+- [Meta ordered to remove UK deepfakes as oversight board criticises 'inadequate' safeguards](https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards)
 
 - [AI"性转"视频风靡中国网络：一场"新文化运动"的觉醒与侷限](https://www.bbc.com/zhongwen/articles/cn74d8mr640o/simp)
 
+- [Viral Putin, Modi and Xi selfie at BRICS summit is AI-generated](https://www.france24.com/en/tv-shows/truth-or-fake/20260915-viral-putin-modi-and-xi-selfie-at-brics-summit-is-ai-generated)
+
 - [Offshore casino targets Alphonso Davies's family with deepfake ad](https://edmontonjournal.com/news/local-news/gambling-alphonso-davies-oxibet-igaming)
-
-- [Ofcom to crack down on spread of illegal intimate images and deepfakes, boosting protections for women and girls online](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/ofcom-to-crack-down-on-spread-of-illegal-intimate-images-and-deepfakes-boosting-protections-for-women-and-girls-online)
-
-- [Foreign 'AI slopaganda' network targets Australian politicians with deepfakes](https://www.abc.net.au/news/2026-09-09/foreign-ai-network-deepfaking-australian-politicians/107129044)
 
 
 
