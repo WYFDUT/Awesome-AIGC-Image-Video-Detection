@@ -39,44 +39,43 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 
 
+- [Move over, pervert glasses – the latest toxic trend is 'robogroping'](https://www.theguardian.com/commentisfree/2026/oct/17/smartglasses-robogroping-toxic-trends)
+
+- [Stanford apologizes for using AI to alter student's race, gender in photo](https://edsource.org/updates/stanford-apologizes-for-using-ai-to-alter-a-students-race-gender-in-photo)
+
+- [快手可灵AI Kling 4.0正式全量上线，API服务即将开放](https://ir.kuaishou.com/zh-hans/news-releases/news-release-details/kelingaixinyidaimoxingkling-40zhengshishangxian)
+
+- [OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence](https://www.reuters.com/legal/government/openai-meta-caution-us-judiciary-about-risk-deepfake-evidence-2026-10-15/)
+
+- [AI冒充刘欢妻子带货，AI明星带货的底线到底在哪？](https://m.36kr.com/p/4019757595235973)
+
+- [Nikon revokes first prize in Small World in Motion video competition over AI use](https://www.cnn.com/2026/10/12/science/nikon-revokes-small-world-prize-intl-scli)
+
 - [AI deepfake ads grow more popular in US midterm campaigns, blurring truth](https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth)
 
 - [Denmark plans ban on sharing AI deepfakes without consent](https://www.reuters.com/world/denmark-plans-ban-sharing-ai-deepfakes-without-consent-2026-10-08/)
 
+- [博流量！溆浦女子用AI合成"被打"视频，被依法行政拘留](https://m.voc.com.cn/xhn/news/202610/33994668.html)
+
+- [白宫官方X账号发布AI篡改图推广Trump TV，AFP检出GPT Image 2生成](https://factcheck.afp.com/doc.afp.com.D2EW8WE)
+
+- [Google's new image model Nano Banana 2.1 generates better images for less money](https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/)
+
 - [Manslaughter sentence tossed over AI-generated video of slain victim](https://abcnews.com/US/manslaughter-sentence-tossed-ai-generated-video-slain-victim/story?id=137045055)
-
-- [快手可灵AI Kling 4.0将于10月上线，支持4K HDR与30秒视频生成](https://www.ithome.com/1/008/073.htm)
-
-- [This light-powered AI can spot deepfakes with nearly 98% accuracy](https://www.sciencedaily.com/releases/2026/09/260929053534.htm)
-
-- [四川道孚"棕熊现身街头"图片系AI合成，两人被处罚](https://m.huanqiu.com/article/4TMVJi6k8Yl)
 
 - [A fake image of a Georgia mayor kissing a person went viral. Can US voters trust everything they see?](https://www.theguardian.com/technology/2026/sep/30/ai-deepfakes-politicans)
 
-- [肖战回应AI争议，一句"但它不是我"为何全网刷屏？](https://k.sina.com.cn/article_7879776328_1d5abd84806802bke4.html?from=ent)
+- [This light-powered AI can spot deepfakes with nearly 98% accuracy](https://www.sciencedaily.com/releases/2026/09/260929053534.htm)
 
 - [Failed by the police, Grok deepfake victims are seeking justice themselves](https://www.thebureauinvestigates.com/stories/2026-09-29/grok-deepfakes-police-justice)
 
+- [四川道孚"棕熊现身街头"图片系AI合成，两人被处罚](https://m.huanqiu.com/article/4TMVJi6k8Yl)
+
+- [肖战回应AI争议，一句"但它不是我"为何全网刷屏？](https://k.sina.com.cn/article_7879776328_1d5abd84806802bke4.html?from=ent)
+
 - [阿里视听生成模型升级，新视频生成模型拟11月发布](https://finance.sina.com.cn/tech/shenji/2026-09-22/doc-inissitm5735903.shtml)
 
-- [New York shuts down a dozen harmful AI deepfake websites targeting celebrities](https://www.transparencycoalition.ai/news/new-york-shuts-down-a-dozen-harmful-ai-deepfake-websites)
-
-- [网络普法小课堂：拆解AI虚假信息套路](https://www.piyao.org.cn/20260920/7a7212ee5f044a6cb58cb630856f6c73/c.html)
-
 - [DHS expands identity verification testing to target deepfakes and AI-generated IDs](https://www.biometricupdate.com/202609/dhs-expands-rivr-testing-to-deepfakes-ai-generated-ids)
-
-- [最高法发布《关于依法审理涉人工智能纠纷案件的意见》，明确AI换脸、拟声等侵权裁判规则](https://www.court.gov.cn/zixun/xiangqing/511101.html)
-
-- [Federal judge blocks Montana's AI deepfake political ad law over free speech concerns](https://www.newsfromthestates.com/node/428286)
-
-- [Meta ordered to remove UK deepfakes as oversight board criticises 'inadequate' safeguards](https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards)
-
-- [AI"性转"视频风靡中国网络：一场"新文化运动"的觉醒与侷限](https://www.bbc.com/zhongwen/articles/cn74d8mr640o/simp)
-
-- [Viral Putin, Modi and Xi selfie at BRICS summit is AI-generated](https://www.france24.com/en/tv-shows/truth-or-fake/20260915-viral-putin-modi-and-xi-selfie-at-brics-summit-is-ai-generated)
-
-- [Offshore casino targets Alphonso Davies's family with deepfake ad](https://edmontonjournal.com/news/local-news/gambling-alphonso-davies-oxibet-igaming)
-
 
 
 - [阿里云发布Wan3.0 AI视频生成模型：支持文/图/视频/音频多模态输入，最长生成30秒视频](https://www.ebrun.com/20260825/698150.shtml)
